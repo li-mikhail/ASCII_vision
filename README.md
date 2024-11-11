@@ -47,5 +47,3 @@ Will be added soon.
 ## 🖋 Author
 
 - [Mikhail](https://github.com/username) - Project Author.
-
-```
