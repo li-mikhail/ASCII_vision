@@ -48,7 +48,4 @@ Will be added soon.
 
 - [Mikhail](https://github.com/username) - Project Author.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 ```
