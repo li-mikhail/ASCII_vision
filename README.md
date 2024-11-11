@@ -20,7 +20,7 @@ The project is built with:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd repo-name
+   cd ASCII_vision
    ```
 3. Open `index.html` in a browser to start the project.
 
@@ -42,7 +42,7 @@ The project depends on **p5.js**, included via CDN in `index.html`.
 
 ## 📸 Screenshots
 
-_Add screenshots or video examples of the project in action here._
+Will be added soon.
 
 ## 🖋 Author
 
@@ -52,5 +52,3 @@ _Add screenshots or video examples of the project in action here._
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 ```
-
-Replace `username` and `repo-name` with your actual GitHub username and repository name. The **Screenshots** section is ready for you to add example images, which will make the README more illustrative.
