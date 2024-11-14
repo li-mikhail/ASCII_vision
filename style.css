@@ -11,3 +11,10 @@ html, body {
 canvas {
   display: block;
 }
+
+.ascii-container {
+  font-family: monospace;
+  white-space: pre;
+  width: 100%; 
+  display: inline-block;
+}
