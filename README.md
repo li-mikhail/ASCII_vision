@@ -1,6 +1,7 @@
 # ASCII Vision
 
 Check it here -> https://li-mikhail.github.io/ASCII_vision/
+
 ASCII Vision is a JavaScript application that converts video streams from the webcam into real-time ASCII art, using characters to represent brightness levels.
 
 ## 📖 Description
