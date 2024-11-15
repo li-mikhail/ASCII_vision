@@ -42,11 +42,7 @@ The project depends on **p5.js**, included via CDN in `index.html`.
 
 ## 📸 Screenshots
 ![Selfie](./Samples/1.png)
-<!-- ![Selfie](./Samples/1.png)
-![Selfie](./Samples/1.png)
-![Selfie](./Samples/1.png) -->
-
-Will be added soon.
+![Selfie](./Samples/2.png)
 
 ## 🖋 Author
 
